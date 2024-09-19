@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Ruben B. @rbarriost
-- 👀 I’m interested in Data, ETL, Analytics and Information Security
-- 🌱 I’m currently learning Information Security
-- 💞️ I’m looking to collaborate on Big Data platforms and new technologies
+- 👀 I’m interested in Data, Cloud, Project Management and Information Security
+- 🌱 I’m currently learning a little bit of everything.
 - 📫 How to reach me https://www.linkedin.com/in/Ruben-Barrios/
 
 <!---
